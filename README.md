@@ -20,4 +20,3 @@ It covers revenue trends, customer ordering behavior, and product performance, a
 - Dynamic Timeline Slicer for month-based filtering
 - Clean and soft color palette for professional readability
 
-## 📂 Folder Structure
